@@ -1,0 +1,6 @@
+logzero
+pydantic
+fastapi
+uvicorn
+pymongo
+requests
